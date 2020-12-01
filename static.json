@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "dyscope"
+      "X-Author": "dyscope",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
